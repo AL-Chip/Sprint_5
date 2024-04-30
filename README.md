@@ -1,2 +1,3 @@
-# Sprint_5
-Final project of sprint 5
+# Проект автоматизации тестирования stellarburgers.nomoreparties.site
+1. Основа для написания автотестов — фреймворк pytest.
+2. Команда для запуска — pytest -v. 
